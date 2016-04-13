@@ -51,8 +51,10 @@ and open the template in the editor.
                 <a href="Vista/Eventos.php" target="_self">Eventos</a><br>        
                 <a href="Vista/Persistencia.php" target="_self">GRIDS y Persistencia</a><br>   
                 <a href="Vista/NavegacionProgramatica.php" target="_self">Navegacion programatica</a><br>
-                <a href="Vista/ajax.php" target="_self">AJAX en JQUERY Mobile</a><br>
+                <a href="Vista/ajax.php" target="_self">AJAX en JQUERY Mobile</a><br>                
                 <a href="Vista/CargaSelectTable.php" target="_self">Carga SELECT - TABLE dinamicamente</a><br>
+                <a href="Vista/Grid.php" target="_self">GRID</a><br>
+                <a href="Vista/Imagenes_resize.php" target="_self">Imagenes Resize </a><br>
             </div>
 
             <div data-role="footer">
