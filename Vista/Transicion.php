@@ -29,7 +29,7 @@ and open the template in the editor.
             <div data-role="main" class="ui-content">
                 <p>Welcome! If you click on the link below, it will take you to Page Two.</p>
 <!--                <a href="#pagetwoTrans" data-transition="slide">Go to Page Two</a>-->
-                <a href="#pagetwoTrans" data-transition="pop">Go to Page Two #2 </a>
+                <a href="#pagetwoTrans" data-transition="flow">Go to Page Two #2 </a>
             </div>
 
             <div data-role="footer">
@@ -45,7 +45,7 @@ and open the template in the editor.
             <div data-role="main" class="ui-content">
                 <p>This is Page Two. If you click on the link below, it will take you to Page One.</p>
 <!--                <a href="#pageoneTrans" data-transition="slide" data-direction="reverse">Go to Page One</a>-->
-                <a href="#pageoneTrans" data-transition="pop">Go to Page One</a>                
+                <a href="#pageoneTrans" data-transition="flip">Go to Page One</a>                
             </div>
 
             <div data-role="footer">

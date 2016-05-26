@@ -30,17 +30,18 @@ and open the template in the editor.
             <div data-role="main" class="ui-content">  
                 <div class="ui-grid-b ui-responsive">
                     <div class="ui-block-a">
-
+                        zxzxxz
                     </div>
                     <div class="ui-block-b">
                         <a href="#" class="ui-btn ui-corner-all ui-shadow">Second Column Button</a><br>
                         <span>Second Column: This is some text. This is some text. This is some text. This is some text.</span>                        
                     </div>
                     <div class="ui-block-c">
-
+                        zxzxzxz
                     </div>
                 </div>
             </div>
+            
         </div> 
 
     </body>
