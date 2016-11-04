@@ -8,3 +8,5 @@
 
 echo "Hola mundo";
 
+echo("aqui fondo azul");
+
